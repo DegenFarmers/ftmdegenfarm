@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2273d432.chunk.css",
+    "main.js": "/static/js/main.f29a80d3.chunk.js",
+    "main.js.map": "/static/js/main.f29a80d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f722674.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f722674.js.map",
+    "static/js/2.29185e0a.chunk.js": "/static/js/2.29185e0a.chunk.js",
+    "static/js/2.29185e0a.chunk.js.map": "/static/js/2.29185e0a.chunk.js.map",
+    "static/js/3.1723ee0c.chunk.js": "/static/js/3.1723ee0c.chunk.js",
+    "static/js/3.1723ee0c.chunk.js.map": "/static/js/3.1723ee0c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2273d432.chunk.css.map": "/static/css/main.2273d432.chunk.css.map",
+    "static/js/2.29185e0a.chunk.js.LICENSE.txt": "/static/js/2.29185e0a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/crazy-fullmoon-752x630.f3a50cb3.jpg",
+    "static/media/fantom.e82e925d.svg": "/static/media/fantom.e82e925d.svg",
+    "static/media/metamask.55d59196.png": "/static/media/metamask.55d59196.png",
+    "static/media/trustwallet.8de17c9e.png": "/static/media/trustwallet.8de17c9e.png",
+    "static/media/walletconnect.1b22e784.png": "/static/media/walletconnect.1b22e784.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f722674.js",
+    "static/js/2.29185e0a.chunk.js",
+    "static/css/main.2273d432.chunk.css",
+    "static/js/main.f29a80d3.chunk.js"
+  ]
+}
